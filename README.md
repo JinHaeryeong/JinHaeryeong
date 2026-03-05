@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=JinHaeryeong's%20%GitHub)
 
 # 👀 About Me
-  #### :mortar_board: 컴퓨터공학전공, 대구가톨릭대학교
+  #### :mortar_board: 컴퓨터공학전공
   
   # 🧱 Tech Stack
   ### Language
